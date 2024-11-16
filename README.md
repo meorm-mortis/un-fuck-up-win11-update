@@ -8,7 +8,7 @@ An automated batch script that fixes your corrupt windows update for you.
 - relax
 - reboot your computer once its done!!
 
-``
+```
                 _                       
                 \`*-.                   
                  )  _`-.                
@@ -24,5 +24,5 @@ An automated batch script that fixes your corrupt windows update for you.
                   ; '   : :`-:     _.`* ;
          [bug] .*' /  .*' ; .*`- +'  `*'
                `*-*   `*-*  `*-*'        
-``
+```
 Code taken from [here](https://pureinfotech.com/reset-windows-update-windows-11/)
